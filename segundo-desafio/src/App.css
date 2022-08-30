@@ -1,0 +1,15 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+
+.fondo_gris {
+  background-color: grey;
+}
+
+.linkeando {
+  color: black !important ;
+}
+.linkeando:hover{
+  color: orangered  !important;
+}
